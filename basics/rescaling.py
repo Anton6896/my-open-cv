@@ -37,3 +37,4 @@ def resize_image():
 
 def do_resize():
     resize_image()
+    # resize_video()
